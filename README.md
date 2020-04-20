@@ -1,6 +1,8 @@
 # SurveyBobby  
   
 **__Team: Curious Raccoons__**  
+
+Hilmi Yildirim, Michael Pavlovic (@MichaelPavlovic), Mounica Sykam (@MounicaSykam), Vitaliy Bulyma (@VitaliyBulyma)
   
 ## :white_check_mark: Project Description  
   
