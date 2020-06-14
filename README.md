@@ -1,5 +1,7 @@
 # SurveyBobby  
   
+In this team project, I individually was responsible for the user and admin dashboard, both interface design and implementation. Together with my teammates we developed a structure for database, and wrote our own SQL queries to power our individual pages. In addition, I designed and coded the footer section, which was common for almost all pages of the website. One of the biggest challenges, on top of learning PHP syntax (since this was our first ever PHP project), was database interaction. We wanted to structure the database in a way that it had no redundancy: same information did not appear in several tables, and in general to have as few tables, as possible. We were able to achieve this by including foreign keys in some tables, to be able to join effectively join two ore more tables when we need to retrieve data. 
+
 **__Team: Curious Raccoons__**  
 
 Hilmi Yildirim, Michael Pavlovic (@MichaelPavlovic), Mounica Sykam (@MounicaSykam), Vitaliy Bulyma (@VitaliyBulyma)
